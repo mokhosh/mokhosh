@@ -1,4 +1,4 @@
-![Top Repositories Mo Khosh Contributed To](https://github-contributor-stats.vercel.app/api?username=mokhosh&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![Top Repositories Mo Khosh Contributed To](https://github-contributor-stats.vercel.app/api?username=mokhosh&limit=16&theme=flat&combine_all_yearly_contributions=true)
 
 ![Mo Khosh Github Stats](https://github-readme-stats.vercel.app/api?username=mokhosh&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
